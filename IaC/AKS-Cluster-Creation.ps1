@@ -10,7 +10,7 @@
     Requirements: 
         Powershell 6.X.X or later
         NET Framework 4.7.2 or later
-        'Owner' access on ECU-DevOps and ECU-Core-002 subscriptions
+        
         
         The Powershell module 'AZ' is required to execute the commands in this script, Azure cloud shell can be used and comes with the AZ module installed
         already. 
